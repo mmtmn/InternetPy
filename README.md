@@ -19,7 +19,7 @@ This repository contains a Python script that showcases fundamental networking c
 
 2. **Run the Script**:
    ```bash
-   python network_tools.py
+   main.py
    ```
 
 3. **Ensure TLS Certificates**:
