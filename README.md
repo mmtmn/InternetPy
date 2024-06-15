@@ -1,5 +1,5 @@
 
-# Network Tools
+# InternetPy
 
 This repository contains a Python script that showcases fundamental networking concepts including TCP/IP communication, DNS querying, secure TLS communication, and BGP interaction using ExaBGP.
 
